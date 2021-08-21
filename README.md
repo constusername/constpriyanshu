@@ -1,6 +1,10 @@
-### Hi there 👋
-
 <p align="center">
-	<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/priyanshu-tiwari-b85a7a194/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<img src="./img/hero.gif">
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ahampriyanshu"><img src="./img/link.png"></a>&emsp;&emsp;
+<a href="https://cp.ahampriyanshu.com.com"><img src="./img/cp.png"></a>&emsp;&emsp;
+<a href="https://wa.me/919917956610?text=Hello%20Priyanshu" ><img src="./img/wa.png"></a>&emsp;&emsp;
+<a href="https://blog.ahampriyanshu.com"><img src="./img/blog.png"></a>&emsp;&emsp;
+<a href="https://www.instagram.com/ahampriyanshu/"><img src="./img/insta.png"></a>
 </p>
